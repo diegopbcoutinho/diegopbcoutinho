@@ -9,7 +9,7 @@ Um prazer te ter aqui no meu perfil! Eu me chamo Diego Coutinho e sou de Recife,
 - Javascript
 - React
 
-[Para mais informações sobre minhas competências, experiência e certificações, acesse o repositório "meuportifolio"]
+[Para mais informações sobre minhas competências, experiência e certificações, acesse o repositório "projeto-portifolio"]
 
 ## Meus Hobbies
 
@@ -17,7 +17,7 @@ Um prazer te ter aqui no meu perfil! Eu me chamo Diego Coutinho e sou de Recife,
 - Estudar Programação (realmente peguei gosto :P)
 - Tocar violão
 
-#Redes Sociais
+## Redes Sociais
 
 - GitHub: github.com/diegopbcoutinho/
 - Linkedin: linkedin.com/in/diego-coutinho-974885182/ 
