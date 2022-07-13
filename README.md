@@ -6,10 +6,9 @@ Um prazer te ter aqui no meu perfil! Eu me chamo Diego Coutinho e sou de Recife,
 
 ## Estudando Atualmente
 
-- Javascript
+- Bootstrap
 - React
-- Git
-- Media Queries (CSS)
+- PréProcessadores CSS
 
 [Para mais informações sobre minhas competências, experiência e certificações, acesse o repositório "projeto-portifolio"]
 
