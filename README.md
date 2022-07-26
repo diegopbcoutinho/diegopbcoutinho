@@ -9,6 +9,7 @@ Um prazer te ter aqui no meu perfil! Eu me chamo Diego Coutinho e sou de Recife,
 - Bootstrap
 - React
 - PréProcessadores CSS
+- Consumo de API's
 
 [Para mais informações sobre minhas competências, experiência e certificações, acesse o repositório "projeto-portifolio"]
 
